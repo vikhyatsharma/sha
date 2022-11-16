@@ -1,4 +1,7 @@
- /*-
+https://github.com/simonratner/Arduino-SHA-256.git 
+
+
+/*-
   * Copyright 2005 Colin Percival
   * Copyright 2013 Christian Mehlis & René Kijewski
   * Copyright 2016 Martin Landsmann <martin.landsmann@haw-hamburg.de>
